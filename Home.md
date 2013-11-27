@@ -22,7 +22,7 @@ No agendamento é possível visualizar as janelas disponibilizadas pela Stepan:
 
 ![Agendamento](/assets/images/agendamento.png)
 
-E também solicitar uma das janelas:
+E também solicitar uma das janelas, informando motorista e veículo previamente cadastrado:
 
 ![Realizando Agendamento](/assets/images/agendamento_do.png)
 
