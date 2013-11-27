@@ -8,13 +8,13 @@ Stepan - Agendamento de Janelas
 
 No cadastro de veículos é necessário informar a placa e o tipo de veículo. Os tipos de veículos são previamente cadastrados pelos administradores do sistema. Caso algum tipo de veículo não esteja cadastrado, por favor informar ao contato da Stepan.
 
-![Cadastro Motorista](/assets/images/cadastro_motorista.png)
+![Cadastro Veículo](/assets/images/cadastro_veiculo.png)
 
 ### Motoristas
 
 No cadastro de motorista é necessário informar CPF e nome. A validação do treinamento é feita pela Stepan.
 
-![Cadastro Veículo](/assets/images/cadastro_veiculo.png)
+![Cadastro Motorista](/assets/images/cadastro_motorista.png)
 
 ## Agendamento
 
