@@ -5,19 +5,27 @@ Stepan - Agendamento de Janelas
 
 ### Transportadoras
 
+Para cadastrar a transportadora é necessário informar um nome e também as possíveis ações que ela faz, carga e/ou descarga.
+
+[![Cadastro Transportadora](/cadastro_transportadora.png)](/cadastro_transportadora.png)
+
 ### Tipos de Veículo
+
+No cadastro de tipo de veículos é necessário informar nome e capacidade e também se o veículo pode ser utilizado como truck/cavalo.
+
+[![Cadastro Tipo de Veículo](/cadastro_tipo_veiculo.png)](/cadastro_tipo_veiculo.png)
 
 ### Veículos
 
-No cadastro de veículos é necessário informar a placa e o tipo de veículo. Os tipos de veículos são previamente cadastrados pelos administradores do sistema
+No cadastro de veículos é necessário informar a placa e o tipo de veículo. Os tipos de veículos são previamente cadastrados como demonstrado acima.
 
 [![Cadastro Veículo](/cadastro_veiculo.png)](/cadastro_veiculo.png)
 
 ### Motoristas
 
-No cadastro de motorista é necessário informar CPF e nome. A validação do treinamento é feita pela Stepan.
+No cadastro de motorista é necessário informar CPF e nome. A validação do treinamento pode ser feita pelo usuário Administrador ou pela Portaria.
 
-[![Cadastro Motorista](/cadastro_motorista.png)](/cadastro_motorista.png)
+[![Cadastro Motorista](/cadastro_motorista_adm.png)](/cadastro_motorista_adm.png)
 
 ## Agendamento
 
