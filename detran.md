@@ -259,25 +259,3 @@
 * Campos: 
 ** <input name="cpf" type="text" id="cpf" size="13" maxlength="13">
 ** <input name="renach" type="text" id="renach" size="14" maxlength="14">
-
-
-### Consulta CNH
-
-* Url:
-* Captcha:
-* Form:
-* Campos: 
-** 
-** 
-** 
-
-
-### Consulta CNH
-
-* Url:
-* Captcha:
-* Form:
-* Campos: 
-** 
-** 
-** 
