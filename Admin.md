@@ -29,15 +29,15 @@ No cadastro de motorista é necessário informar CPF e nome. A validação do tr
 
 ## Agendamento
 
-No agendamento é possível visualizar as janelas disponibilizadas pela Stepan:
+No agendamento é possível definir as janelas de carga e descarga:
 
-[![Agendamento](/agendamento.png)](/agendamento.png)
+[![Agendamento](/agendamentoo.png)](/agendamentoo.png)
 
-E também solicitar uma das janelas, informando motorista e veículo previamente cadastrado:
+## Produção
 
-[![Realizando Agendamento](/agendamento_do.png)](/agendamento_do.png)
+Na tela de produção podemos definir a quantidade em toneladas que cada transportadora está apta a carregar por dia:
 
-[![Agendamento Realizado](/agendamento_done.png)](/agendamento_done.png)
+[![Produção](/producao.png)](/producao.png)
 
 ## Programação
 
