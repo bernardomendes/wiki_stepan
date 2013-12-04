@@ -43,4 +43,16 @@ Na tela de produção podemos definir a quantidade em toneladas que cada transpo
 
 Na programação é possível visualizar todos os veículos da transportadora nos diversos status (Agendado, Pesagem, Carregando/Descarregando, Carregado, Faturado, Cancelado e Finalizado)
 
-[![Agendamento Realizado](/programacao.png)](/programacao.png)
+[![Agendamento Realizado](/programacao_adm.png)](/programacao_adm.png)
+
+Sendo possível informar os lacres e também conferí-los como demonstrado a seguir:
+
+[![Lacres](/agendamento_lacres.png)](/agendamento_lacres.png)
+
+Editar os dados do transporte:
+
+[![Transporte](/agendamento_edicao.png)](/agendamento_edicao.png)
+
+E informar as notas fiscais:
+
+[![Notas Fiscais](/agendamento_nf.png)](/agendamento_nf.png)
