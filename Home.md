@@ -1,9 +1,6 @@
-<br>
-<br>
+
 Manual - Sistema de Agendamento Stepan 
 ====================================
-<br>
-<br>
 
 
 
