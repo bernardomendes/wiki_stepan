@@ -15,7 +15,7 @@ O usuário da portaria pode acompanhar o andamento dos caminhões na fábrica e 
 
 [![Verificar Lacre](/verificar_lacre.png)](/verificar_lacre.png)
 
-E se estiver incorreto será necessário justificar:
+E se estiver incorreto será necessário justificar o motivo:
 
 [![Justificar Lacre](/justificar_lacre.png)](/justificar_lacre.png)
 
