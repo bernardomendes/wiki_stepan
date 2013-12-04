@@ -19,3 +19,6 @@ E se estiver incorreto será necessário justificar o motivo:
 
 [![Justificar Lacre](/justificar_lacre.png)](/justificar_lacre.png)
 
+E também deve inserir os números das notas fiscais quando o transporte estiver em faturado:
+
+[![Notas Fiscais](/agendamento_nf.png)](/agendamento_nf.png)
